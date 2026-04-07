@@ -1,6 +1,6 @@
 # Hi, I'm Gabin 👋
 
-![My portfolio](https://gabin-hemmerle.fr/)
+[My portfolio](https://gabin-hemmerle.fr/)
 
 ## 🤖 Tokscale — AI Token Usage
 
