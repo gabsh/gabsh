@@ -1,30 +1,34 @@
-# Hi, I'm Gabin 👋
+# 👋 Hi, I'm Gabin!
 
----
+🎓 Master MIAGE — Méthodes Informatiques Appliquées à la Gestion des Entreprises.<br>💻 Particularly passionate about Data and AI, with a strong focus on the added value these fields can deliver.
 
-## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabin-hemmerle)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabsh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://gabin-hemmerle.fr/)
+## Connect
 
-## 🤖 Tokscale 
+- 🌍 Portfolio : [gabin-hemmerle.fr](https://gabin-hemmerle.fr/)
+- 💼 LinkedIn : [linkedin.com/in/gabin-hemmerle](https://linkedin.com/in/gabin-hemmerle)
+- 📬 Email : [gabin.hemm@gmail.com](mailto:gabin.hemm@gmail.com)
+
+## Stacks
+
+## Stacks & Tools
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" title="PyTorch" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-learn" title="Scikit-learn" />
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" title="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" title="Vue.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
+</p>
+
+## Tokscale
 
 [![Tokscale Stats](https://tokscale.ai/api/embed/gabsh/svg)](https://tokscale.ai/u/gabsh)
 
----
-
-## 📈 Contribution Graph
+## Contribution Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gabsh&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🛠️ Stack
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-
