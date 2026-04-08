@@ -3,13 +3,9 @@
 🎓 Master MIAGE — Méthodes Informatiques Appliquées à la Gestion des Entreprises.<br>💻 Particularly passionate about Data and AI, with a strong focus on the added value these fields can deliver.
 
 
-## Connect
-
 - 🌍 Portfolio : [gabin-hemmerle.fr](https://gabin-hemmerle.fr/)
 - 💼 LinkedIn : [linkedin.com/in/gabin-hemmerle](https://linkedin.com/in/gabin-hemmerle)
 - 📬 Email : [gabin.hemm@gmail.com](mailto:gabin.hemm@gmail.com)
-
-## Stacks
 
 ## Stacks & Tools
 
