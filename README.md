@@ -1,6 +1,6 @@
 # Hi, I'm Gabin!
 
-🎓 Master MIAGE — Méthodes Informatiques Appliquées à la Gestion des Entreprises.<br>💻 Particularly passionate about Data and AI, with a strong focus on the added value these fields can deliver.
+🎓 Master MIAGE — Méthodes Informatiques Appliquées à la Gestion des Entreprises.<br>💻 Particularly passionate about Full-Stack, Data and AI, with a strong focus on the added value these fields can deliver.
 
 
 - 🌍 Portfolio : [gabin-hemmerle.fr](https://gabin-hemmerle.fr/)
