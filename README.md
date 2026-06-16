@@ -6,6 +6,7 @@
 - 🌍 Portfolio : [gabin-hemmerle.fr](https://gabin-hemmerle.fr/)
 - 💼 LinkedIn : [linkedin.com/in/gabin-hemmerle](https://linkedin.com/in/gabin-hemmerle)
 - 📬 Email : [gabin.hemm@gmail.com](mailto:gabin.hemm@gmail.com)
+- 🚀 LeetCode : [leetcode.com/u/gabsh/](https://leetcode.com/u/gabsh/)
 
 ## Stacks & Tools
 
