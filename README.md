@@ -9,7 +9,7 @@ Currently learning Golang <img src="https://cdn.jsdelivr.net/gh/devicons/devicon
 * 📬 **Email** : [gabin.hemm@gmail.com](mailto:gabin.hemm@gmail.com)
 * 🚀 **LeetCode** : [leetcode.com/u/gabsh/](https://leetcode.com/u/gabsh/)
 
-## 🛠️ Full-Stack & Backend
+## 🛠️ Full-Stack • DevOps & Orchestration
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" title="Angular" />
@@ -22,6 +22,14 @@ Currently learning Golang <img src="https://cdn.jsdelivr.net/gh/devicons/devicon
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
 </p>
+
+<div align="center">
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</div>
 
 <!--
 ## 📊 Data Science & AI
