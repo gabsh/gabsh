@@ -52,12 +52,4 @@ Currently learning Golang <img src="https://cdn.jsdelivr.net/gh/devicons/devicon
   </a>
 </div>
 
----
 
-## 📊 Contribution Graph
-
-<div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabsh&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-  </a>
-</div>
