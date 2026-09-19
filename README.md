@@ -44,7 +44,7 @@ Currently learning Golang <img src="https://cdn.jsdelivr.net/gh/devicons/devicon
 ---
 -->
 
-## 📈 Tokscale
+## Tokscale
 
 <div align="center">
   <a href="https://tokscale.ai/u/gabsh">
