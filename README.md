@@ -9,7 +9,7 @@ Currently learning Golang <img src="https://cdn.jsdelivr.net/gh/devicons/devicon
 * 📬 **Email** : [gabin.hemm@gmail.com](mailto:gabin.hemm@gmail.com)
 * 🚀 **LeetCode** : [leetcode.com/u/gabsh/](https://leetcode.com/u/gabsh/)
 
-## 🛠️ Full-Stack • DevOps & Orchestration
+## Full-Stack • DevOps & Orchestration
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" title="Angular" />
