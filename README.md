@@ -1,13 +1,13 @@
 Hi,
 
-🎓 **Master MIAGE — Méthodes Informatiques Appliquées à la Gestion des Entreprises**
+**Master MIAGE — Méthodes Informatiques Appliquées à la Gestion des Entreprises**
 
 Currently learning Golang <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="29" alt="Go" title="Go" /> for backend development <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" height="29" alt="Gin" title="Gin" />
 
-* 🌍 **Portfolio** : [gabin-hemmerle.fr](https://gabin-hemmerle.fr/)
-* 💼 **LinkedIn** : [linkedin.com/in/gabin-hemmerle](https://linkedin.com/in/gabin-hemmerle)
-* 📬 **Email** : [gabin.hemm@gmail.com](mailto:gabin.hemm@gmail.com)
-* 🚀 **LeetCode** : [leetcode.com/u/gabsh/](https://leetcode.com/u/gabsh/)
+* **Portfolio** : [gabin-hemmerle.fr](https://gabin-hemmerle.fr/)
+* **LinkedIn** : [linkedin.com/in/gabin-hemmerle](https://linkedin.com/in/gabin-hemmerle)
+* **Email** : [gabin.hemm@gmail.com](mailto:gabin.hemm@gmail.com)
+* **LeetCode** : [leetcode.com/u/gabsh/](https://leetcode.com/u/gabsh/)
 
 ## Full-Stack • DevOps & Orchestration
 
