@@ -1,4 +1,4 @@
-# Hi 👋
+
 
 **Master MIAGE — Méthodes Informatiques Appliquées à la Gestion des Entreprises**
 
@@ -8,13 +8,13 @@ I enjoy learning **new programming languages, frameworks and technologies**, bui
 
 🖥️ **Self-hosted infrastructure** — I run my own VPS and deploy and maintain my own applications.
 
-Currently learning **Go** for backend development with **Gin**.
+Check out my sites: [mlens.fr](https://mlens.fr) & [fsight.fr](https://fsight.fr)
 
 <p align="center">
-  🌐 <a href="https://gabin-hemmerle.fr">Portfolio</a> ·
-  💼 <a href="https://linkedin.com/in/gabin-hemmerle">LinkedIn</a> ·
-  📧 <a href="mailto:gabin.hemm@gmail.com">Email</a> ·
-  🧩 <a href="https://leetcode.com/u/gabsh/">LeetCode</a>
+    <a href="https://gabin-hemmerle.fr/portfolio">Portfolio</a> ·
+    <a href="https://linkedin.com/in/gabin-hemmerle">LinkedIn</a> ·
+    <a href="mailto:gabin.hemm@gmail.com">gabin.hemm@gmail.com</a> ·
+    <a href="https://leetcode.com/u/gabsh/">LeetCode</a>
 </p>
 
 ---
