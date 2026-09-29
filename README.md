@@ -4,9 +4,9 @@
 
 Full-Stack developer focused on **backend development, data, machine learning and DevOps**.
 
-I enjoy learning **new programming languages, frameworks and technologies**, building projects with them, and experimenting with different approaches to software development.
+I enjoy learning **new programming languages, frameworks and technologies**, building projects with them and experimenting.
 
-🖥️ **Self-hosted infrastructure** — I run my own VPS and deploy and maintain my own applications.
+🖥️ **Self-hosted infrastructure** — I run my own VPS and deploy and maintain my own applications with a Kubernetes cluster.
 
 Check out my sites: [mlens.fr](https://mlens.fr) & [fsight.fr](https://fsight.fr)
 
