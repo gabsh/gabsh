@@ -29,10 +29,7 @@ jobs:
         env:
           GH_USER: gabsh
       - run: python scripts/make_info_card.py
-      - name: Refresh Tokscale card
-        run: curl -sSfL -m 30 -o tokscale.tmp https://tokscale.ai/api/embed/gabsh/svg && mv tokscale.tmp tokscale.svg
-        continue-on-error: true
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: refresh profile art [skip ci]"
-          file_pattern: "data/contributions.json contrib-heatmap.svg info-card.svg tokscale.svg"
+          file_pattern: "data/contributions.json contrib-heatmap.svg info-card.svg"
