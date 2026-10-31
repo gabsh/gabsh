@@ -16,13 +16,3 @@
 [![Info card](info-card.svg)](info-card.svg)
 
 <sub>All art is hand-rolled animated SVG, regenerated daily by a [workflow](.github/workflows/update-profile-art.yml).</sub>
-
----
-
-## 📊 Tokscale
-
-<div align="center">
-  <a href="https://tokscale.ai/u/gabsh">
-    <img src="https://tokscale.ai/api/embed/gabsh/svg" alt="Tokscale Stats" />
-  </a>
-</div>
