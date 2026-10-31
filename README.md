@@ -24,6 +24,6 @@
 
 <div align="center">
   <a href="https://tokscale.ai/u/gabsh">
-    <img src="https://tokscale.ai/api/embed/gabsh/svg" alt="Tokscale Stats" />
+    <img src="tokscale.svg" alt="Tokscale Stats" />
   </a>
 </div>
