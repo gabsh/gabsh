@@ -33,8 +33,6 @@ p = [
     ".cur{animation:blink 1s steps(1) infinite}@keyframes blink{50%{opacity:0}}",
     "</style>",
     f'<rect width="{width}" height="{height}" rx="10" fill="#0d1117" stroke="#30363d"/>',
-    f'<text x="{PAD_X}" y="30" font-size="14" fill="#7ee787">{data["user"]}@github</text>',
-    f'<text x="{PAD_X + 118}" y="30" font-size="14" fill="#8b949e">~ $ contributions</text>',
     f'<text x="{PAD_X}" y="50" font-size="12" fill="#8b949e">{data["total"]} contributions in the last year</text>',
     f'<text x="{width - PAD_X}" y="50" font-size="12" fill="#8b949e" text-anchor="end">'
     f'<tspan fill="#ff7b5c">{streak}d streak</tspan> · longest {best}d · {active} active days</text>',

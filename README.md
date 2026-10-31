@@ -7,8 +7,6 @@
 
 ---
 
-### `gabsh@github ~ $ contributions`
-
 [![Animated contribution heatmap](contrib-heatmap.svg)](contrib-heatmap.svg)
 
 ### `gabsh@github ~ $ whoami`
