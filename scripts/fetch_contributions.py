@@ -18,7 +18,7 @@ query($login: String!) {
   }
 }
 """
-LEVELS = {"NONE": 0, "FIRST_QUARTER": 1, "SECOND_QUARTER": 2, "THIRD_QUARTER": 3, "FOURTH_QUARTER": 4}
+LEVELS = {"NONE": 0, "FIRST_QUARTILE": 1, "SECOND_QUARTILE": 2, "THIRD_QUARTILE": 3, "FOURTH_QUARTILE": 4}
 
 req = urllib.request.Request(
     "https://api.github.com/graphql",
